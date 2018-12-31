@@ -1,11 +1,10 @@
 # arbitrary-text-to-image-papers
-A collection of arbitrary kinds of text to image papers.
+A collection of arbitrary kinds of text to image papers, organized by [Oriented.lin](https://github.com/1400012780) and [lzhbrian](https://lzhbrian.me).
 
 Papers are ordered in arXiv first version submitting time (if applicable).
 
 Feel free to send a PR or issue.
 
-organized by [Oriented.lin](https://github.com/1400012780) and [lzhbrian](https://lzhbrian.me)
 
 
 
