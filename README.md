@@ -30,13 +30,15 @@ Feel free to send a PR or issue.
 
 ## scene graph/layout to image
 
-| Note | Model      | Paper                                                        | Conference | paper link                                     | code link                                                 |
-| ---- | ---------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | --------------------------------------------------------- |
-|      | GAWWN      | Learning What and Where to Draw                              | NIPS 2016  | [1610.02454](https://arxiv.org/abs/1610.02454) | [reedscot/nips2016](https://github.com/reedscot/nips2016) |
-|      |            | Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis | CVPR 2018  | [1801.05091](https://arxiv.org/abs/1801.05091) |                                                           |
-|      | sg2im      | Image Generation from Scene Graphs                           | CVPR 2018  | [1804.01622](https://arxiv.org/abs/1804.01622) | [google/sg2im](https://github.com/google/sg2im)           |
-|      | Text2Scene | Text2Scene: Generating Abstract Scenes from Textual Descriptions |            | [1809.01110](https://arxiv.org/abs/1809.01110) |                                                           |
-|      | Layout2Im  | Image Generation from Layout                                 |            | [1811.11389](https://arxiv.org/abs/1811.11389) |                                                           |
+| Note | Model           | Paper                                                        | Conference | paper link                                               | code link                                                    |
+| ---- | --------------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+|      | GAWWN           | Learning What and Where to Draw                              | NIPS 2016  | [1610.02454](https://arxiv.org/abs/1610.02454)           | [reedscot/nips2016](https://github.com/reedscot/nips2016)    |
+|      |                 | Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis | CVPR 2018  | [1801.05091](https://arxiv.org/abs/1801.05091)           |                                                              |
+|      | sg2im           | Image Generation from Scene Graphs                           | CVPR 2018  | [1804.01622](https://arxiv.org/abs/1804.01622)           | [google/sg2im](https://github.com/google/sg2im)              |
+|      | Text2Scene      | Text2Scene: Generating Abstract Scenes from Textual Descriptions |            | [1809.01110](https://arxiv.org/abs/1809.01110)           |                                                              |
+|      | Layout2Im       | Image Generation from Layout                                 |            | [1811.11389](https://arxiv.org/abs/1811.11389)           |                                                              |
+|      | LayoutGAN       | LayoutGAN: Generating Graphic Layouts with Wireframe Discriminator | ICLR 2019  | [openreview](https://openreview.net/forum?id=HJxB5sRcFQ) |                                                              |
+|      | Object Pathways | Generating Multiple Objects at Spatially Distinct Locations  | ICLR 2019  | [1901.00686](https://arxiv.org/abs/1901.00686)           | [tohinz/multiple-objects-gan](https://github.com/tohinz/multiple-objects-gan) |
 
 
 
