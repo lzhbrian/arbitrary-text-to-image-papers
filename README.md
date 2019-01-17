@@ -39,7 +39,7 @@ Feel free to send a PR or issue.
 |      | Layout2Im       | Image Generation from Layout                                 |            | [1811.11389](https://arxiv.org/abs/1811.11389)           |                                                              |
 |      | LayoutGAN       | LayoutGAN: Generating Graphic Layouts with Wireframe Discriminator | ICLR 2019  | [openreview](https://openreview.net/forum?id=HJxB5sRcFQ) |                                                              |
 |      | Object Pathways | Generating Multiple Objects at Spatially Distinct Locations  | ICLR 2019  | [1901.00686](https://arxiv.org/abs/1901.00686)           | [tohinz/multiple-objects-gan](https://github.com/tohinz/multiple-objects-gan) |
-
+|      |                 | Using Scene Graph Context to Improve Image Generation        |            | [1901.03762](https://arxiv.org/abs/1901.03762)           |                                                              |
 
 
 ## dialog to image
