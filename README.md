@@ -3,7 +3,7 @@ A collection of arbitrary kinds of text to image papers, organized by [orientedl
 
 Papers are ordered in arXiv first version submitting time (if applicable).
 
-Feel free to send a PR or issue.
+Feel free to send a PR or an issue.
 
 
 
@@ -42,6 +42,7 @@ Feel free to send a PR or issue.
 |      |                 | Using Scene Graph Context to Improve Image Generation        |            | [1901.03762](https://arxiv.org/abs/1901.03762)           |                                                              |
 
 
+
 ## dialog to image
 
 | Note | Model       | Paper                                                        | Conference | paper link                                     | code link                                                    |
@@ -50,5 +51,5 @@ Feel free to send a PR or issue.
 |      | ChatPainter | ChatPainter: Improving Text to Image Generation using Dialogue | ICLRW 2018 | [1802.08216](https://arxiv.org/abs/1802.08216) |                                                              |
 |      |             | Keep Drawing It: Iterative language-based image generation and editing | NIPSW 2018 | [1811.09845](https://arxiv.org/abs/1811.09845) | [CLEVR dataset](https://github.com/facebookresearch/clevr-dataset-gen) |
 |      | Chat-crowd  | Chat-crowd: A Dialog-based Platform for Visual Layout Composition |            | [1812.04081](https://arxiv.org/abs/1812.04081) | [uvavision/chat-crowd](https://github.com/uvavision/chat-crowd) |
-|      |             |                                                              |            |                                                |                                                              |
+|      | SeqAttnGAN  | Sequential Attention GAN for Interactive Image Editing via Dialogue |            | [1812.08352](https://arxiv.org/abs/1812.08352) |                                                              |
 
