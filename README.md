@@ -25,6 +25,7 @@ Feel free to send a PR or an issue.
 |      | StackGAN++  | StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks | TPAMI 2018 | [1710.10916](https://arxiv.org/abs/1710.10916) | [hanzhanggit/StackGAN-v2](https://github.com/hanzhanggit/StackGAN-v2) |
 |      | AttnGAN     | AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks | CVPR 2018  | [1711.10485](https://arxiv.org/abs/1711.10485) | [taoxugit/AttnGAN](https://github.com/taoxugit/AttnGAN)      |
 |      | StoryGAN    | StoryGAN: A Sequential Conditional GAN for Story Visualization |            | [1812.02784](https://arxiv.org/abs/1812.02784) |                                                              |
+|      | Obj-GAN     | Object-driven Text-to-Image Synthesis via Adversarial Training | CVPR 2019  | [1902.10740](https://arxiv.org/abs/1902.10740) |                                                              |
 
 
 
