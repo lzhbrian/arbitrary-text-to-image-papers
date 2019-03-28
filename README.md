@@ -1,5 +1,5 @@
 # arbitrary-text-to-image-papers
-A collection of arbitrary kinds of text to image papers, organized by [Tzu-Heng Lin](https://lzhbrian.me).
+A collection of arbitrary kinds of text to image papers, organized by [Tzu-Heng Lin](https://lzhbrian.me) and [Haoran Mo](https://github.com/MarkMoHR).
 
 Papers are ordered in arXiv first version submitting time (if applicable).
 
@@ -26,7 +26,6 @@ Feel free to send a PR or an issue.
 |      | AttnGAN     | AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks | CVPR 2018  | [1711.10485](https://arxiv.org/abs/1711.10485) | [taoxugit/AttnGAN](https://github.com/taoxugit/AttnGAN)      |
 |      | HD-GAN     | Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network | CVPR 2018  | [1802.09178](https://arxiv.org/pdf/1802.09178.pdf) | [ypxie/HDGan](https://github.com/ypxie/HDGan)      |
 |      | StoryGAN    | StoryGAN: A Sequential Conditional GAN for Story Visualization | CVPR 2019 | [1812.02784](https://arxiv.org/abs/1812.02784) |  [yitong91/StoryGAN](https://github.com/yitong91/StoryGAN)    |
-|      | Obj-GAN     | Object-driven Text-to-Image Synthesis via Adversarial Training | CVPR 2019  | [1902.10740](https://arxiv.org/abs/1902.10740) |                                                              |
 |      | MirrorGAN   | MirrorGAN: Learning Text-to-image Generation by Redescription | CVPR 2019  | [1903.05854](https://arxiv.org/abs/1903.05854) |                                                              |
 
 
@@ -43,7 +42,7 @@ Feel free to send a PR or an issue.
 |      | LayoutGAN       | LayoutGAN: Generating Graphic Layouts with Wireframe Discriminator | ICLR 2019  | [openreview](https://openreview.net/forum?id=HJxB5sRcFQ) |                                                              |
 |      | Object Pathways | Generating Multiple Objects at Spatially Distinct Locations  | ICLR 2019  | [1901.00686](https://arxiv.org/abs/1901.00686)           | [tohinz/multiple-objects-gan](https://github.com/tohinz/multiple-objects-gan) |
 |      |                 | Using Scene Graph Context to Improve Image Generation        |            | [1901.03762](https://arxiv.org/abs/1901.03762)           |                                                              |
-
+|      | Obj-GAN     | Object-driven Text-to-Image Synthesis via Adversarial Training | CVPR 2019  | [1902.10740](https://arxiv.org/abs/1902.10740) |                                                              |
 
 
 ## dialog to image
