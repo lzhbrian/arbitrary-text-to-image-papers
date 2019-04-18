@@ -26,8 +26,9 @@ Feel free to send a PR or an issue.
 |      | AttnGAN     | AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks | CVPR 2018  | [1711.10485](https://arxiv.org/abs/1711.10485) | [taoxugit/AttnGAN](https://github.com/taoxugit/AttnGAN)      |
 |      | HD-GAN     | Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network | CVPR 2018  | [1802.09178](https://arxiv.org/pdf/1802.09178.pdf) | [ypxie/HDGan](https://github.com/ypxie/HDGan)      |
 |      | StoryGAN    | StoryGAN: A Sequential Conditional GAN for Story Visualization | CVPR 2019 | [1812.02784](https://arxiv.org/abs/1812.02784) |  [yitong91/StoryGAN](https://github.com/yitong91/StoryGAN)    |
-|      | MirrorGAN   | MirrorGAN: Learning Text-to-image Generation by Redescription | CVPR 2019  | [1903.05854](https://arxiv.org/abs/1903.05854) |                                                              |
-
+|      | MirrorGAN   | MirrorGAN: Learning Text-to-image Generation by Redescription | CVPR 2019  | [1903.05854](https://arxiv.org/abs/1903.05854) |
+|      | DM-GAN   | DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis | CVPR 2019  | [1904.01310](https://arxiv.org/abs/1904.01310) |
+|      | SD-GAN   | Semantics Disentangling for Text-to-Image Generation | CVPR 2019  | [1904.01480](https://arxiv.org/abs/1904.01480) | 
 
 
 ## scene graph/layout to image
