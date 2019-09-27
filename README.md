@@ -43,7 +43,7 @@ Feel free to send a PR or an issue.
 |      | LayoutGAN       | LayoutGAN: Generating Graphic Layouts with Wireframe Discriminator | ICLR 2019  | [openreview](https://openreview.net/forum?id=HJxB5sRcFQ) |                                                              |
 |      | Object Pathways | Generating Multiple Objects at Spatially Distinct Locations  | ICLR 2019  | [1901.00686](https://arxiv.org/abs/1901.00686)           | [tohinz/multiple-objects-gan](https://github.com/tohinz/multiple-objects-gan) |
 |      |                 | Using Scene Graph Context to Improve Image Generation        |            | [1901.03762](https://arxiv.org/abs/1901.03762)           |                                                              |
-|      | Obj-GAN     | Object-driven Text-to-Image Synthesis via Adversarial Training | CVPR 2019  | [1902.10740](https://arxiv.org/abs/1902.10740) |                                                              |
+|      | Obj-GAN     | Object-driven Text-to-Image Synthesis via Adversarial Training | CVPR 2019  | [1902.10740](https://arxiv.org/abs/1902.10740) | [jamesli1618/Obj-GAN](https://github.com/jamesli1618/Obj-GAN) |
 
 
 ## dialog to image
